@@ -12,7 +12,7 @@ function setup() {
 	
 	textSize(20);
 	fill("black")
-	text("Press the 'UpArrow' to move the Cradle",650,20)
+	text("Press the 'UpArrow' to move the Cradle",650,200)
 
 	//Create the Bodies Here.
    roof = new Roof(650,50,1000,20);
